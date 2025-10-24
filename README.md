@@ -1,8 +1,7 @@
 # Data Science Project README
 
 ## Student Performance Prediction using Machine Learning
-
-Student Performance Prediction using Machine Learning
+ Performance Prediction using Machine Learning
 
 ## Table of Contents
 
