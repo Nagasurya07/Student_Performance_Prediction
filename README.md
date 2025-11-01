@@ -3,8 +3,7 @@
 ## Student Performance Prediction using Machine Learning
  Performance Prediction using Machine Learning
 
-## Table of Contents
-
+## Table 
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Data](#data)
